@@ -49,8 +49,8 @@ A command-line tool that downloads chapter images from web pages. It finds lazy-
 ## Installation
 
 ```bash
-git clone https://github.com/devvsantana/santana-chapter-downloader.git
-cd santana-chapter-downloader
+git clone https://github.com/santanadevv1/MerlinToon-Downloader.git
+cd MerlinToon-Downloader
 python -m chapterdl --help
 ```
 
